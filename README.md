@@ -10,7 +10,7 @@ I used all my money and entered a university in Seoul area in just 8 months<br>
 From the first semester of admission, I continue to live ina COVID-19 life and live inpoverty due to family circumstances<br>
 To Infinty and Beyond! To The Top TonyHan!<br>
 <br>
-# I look forward to your kind cooperation. Thank you!<br>
+### I look forward to your kind cooperation. Thank you!<br>
 <br>
 <br>
 신촌거지출신개발자 TonyHan!<br>
@@ -22,7 +22,8 @@ To Infinty and Beyond! To The Top TonyHan!<br>
 입학후 첫 학기부터 비대면생활에 집안사정으로 궁피한 삶을 이어나가지만<br>
 오늘도 꿈을 향하여 To The Top TonyHan!<br>
 <br>
-# 잘부탁드립니다.<br>
+
+### 잘부탁드립니다.<br>
 <br>
 
 [![tonyhan18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyhan18&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
