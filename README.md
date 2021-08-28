@@ -25,9 +25,7 @@ To Infinty and Beyond! To The Top TonyHan!<br>
 # 잘부탁드립니다.<br>
 <br>
 
-[![tonyhan18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyhan18&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-![tonyhan18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyhan18&show_icons=true&theme=Gradient)
+[![tonyhan18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyhan18&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhan18&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhan18&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
