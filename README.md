@@ -6,8 +6,8 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 Although I was a poor college student in Cheonan, I dreamed of getting into a better university
 I used all my money and entered a university in Seoul area in just 8 months<br>
 <br>
-From the first semester of admission, I continue to live ina COVID-19 life and live inpoverty due to family circumstances<br>
-To Infinty and Beyond! To The Top TonyHan!<br>
+From the first semester of admission, I continue to live in a COVID-19 life and live inpoverty due to family circumstances<br>
+But again, To Infinty and Beyond! To The Top TonyHan!<br>
 <br>
 ### I look forward to your kind cooperation. Thank you!<br>
 <br>
