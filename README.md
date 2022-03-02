@@ -9,8 +9,9 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 <p align="center">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E"/>&nbsp
     <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E"/>&nbsp
+		<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
-    [![tonyhan18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyhan18&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![tonyhan18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyhan18&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhan18&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
