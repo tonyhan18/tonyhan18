@@ -6,21 +6,25 @@ Developer from Sinchon Beggar TonyHan!<br>
 I'm a programmer. I'm developing web, apps, software and sometimes servers that are running somewhere in the world!<br>
 </p>
 <h3 align="center">📚 What am I learning now 📚</h3>
+<h4 align="center">Web Develop</h4>
 <p align="center">
-		<h4 align="center">Web Develop</h4>
-		<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
-		<img src="https://img.shields.io/badge/Express-00000?style=flat-square&logo=Express&logoColor=white"/>&nbsp
-		<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node&logoColor=white"/>&nbsp
-		<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-		<br>
-		<h4>CICD</h4>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
-		<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp
-		<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node&logoColor=white"/>&nbsp
-		<h4>DataBase</h4>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
-		
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/Express-00000?style=flat-square&logo=Express&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+</p>
+<br>
+<h4 align="center">CICD</h4>
+<p align="center">
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node&logoColor=white"/>&nbsp
+</p>
+<br>
+<h4 align="center">Database</h4>
+<p align="center">
+	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
