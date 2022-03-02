@@ -1,4 +1,8 @@
+<br>
+
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=151D3B&text=TonyHan&height=150&fontSize=80&desc=DevOps%20Engineer&descAlignY=75&descAlign=60)
+<br>
+<br>
 
 <h3 align="center"> I don't remember the number of braces I've had so far. </h3>
 <p align="center">
@@ -8,8 +12,8 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 <h3 align="center">📚 What am I learning now 📚</h3>
 <h4 align="center">Web Develop</h4>
 <p align="center">
-	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp
 	<img src="https://img.shields.io/badge/Express-00000?style=flat-square&logo=Express&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
@@ -18,7 +22,7 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 <p align="center">
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>&nbsp
 	<img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>&nbsp
 </p>
 <h4 align="center">Database</h4>
@@ -34,8 +38,8 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 <h4 align="center">Current Group</h4>
 <p align="center">	
   <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/>&nbsp
-	Sogang's University &nbsp
-	Sogang ICPC &nbsp
+	| Sogang's University &nbsp
+	| Sogang ICPC &nbsp
 	</img>
 	</p>
 	<h4 align="center">Industrial-academic scholarship student.</h4>
