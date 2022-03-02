@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=30A9DE&height=170&section=header&text=TonyHan&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27TonyHan&descAlign=60&descAlignY=50)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=TonyHan&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
+
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=TonyHan&descAlign=60&descAlignY=50)
 
 <h3 align="center"> I don't remember the number of braces I've had so far. </h3>
 <p align="center">
