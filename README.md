@@ -30,9 +30,10 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 
 <h3 align="center">📚 Where I working 📚</h3>
 <p align="center">
+	<h4 align="center">Current Group</h4>
   <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/>&nbsp
 	<h4 align="center">Industrial-academic scholarship student.</h4>
-	<img src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>&nbsp
+	<img align="center" src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
