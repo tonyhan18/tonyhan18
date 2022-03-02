@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=30A9DE&height=170&section=header&text=TonyHan&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&fontAlign=30&fontSize=30&textBg=true&desc=TonyHan&descAlign=60&descAlignY=50)
+
 <h3 align="center"> I don't remember the number of braces I've had so far. </h3>
 <p align="center">
 Developer from Sinchon Beggar TonyHan!<br>
@@ -82,4 +84,4 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 </p>
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=Rect&color=EFDC05&height=100&section=footer)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&fontAlign=30&fontSize=30&textBg=true&descAlign=60&descAlignY=50)
