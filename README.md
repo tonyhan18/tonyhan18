@@ -7,10 +7,13 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>&nbsp
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>&nbsp
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E"/>&nbsp
+    <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E"/>&nbsp
+
     [![tonyhan18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyhan18&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhan18&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 <h3 align="center">•••</h3>
