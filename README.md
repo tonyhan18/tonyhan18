@@ -33,8 +33,8 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 <h4 align="center">Current Group</h4>
 <p align="center">	
   <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/>&nbsp
-	<img src="image/sogang.png?style=flex&width=50px&align-items=flex-start">
-	Sogang's University
+	Sogang's University &nbsp
+	Sogang ICPC &nbsp
 	</img>
 	</p>
 	<h4 align="center">Industrial-academic scholarship student.</h4>
