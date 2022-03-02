@@ -7,7 +7,7 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 </p>
 <h3 align="center">📚 What am I learning now 📚</h3>
 <p align="center">
-		<h4>Web Develop</h4>
+		<h4 align="center">Web Develop</h4>
 		<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
 		<img src="https://img.shields.io/badge/Express-00000?style=flat-square&logo=Express&logoColor=white"/>&nbsp
