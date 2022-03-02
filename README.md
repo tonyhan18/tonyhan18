@@ -25,15 +25,22 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 <p align="center">
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
 </p>
-
+<br>
 <h3 align="center">•••</h3>
+<br>
 
 <h3 align="center">📚 Where I working 📚</h3>
-<p align="center">
-	<h4 align="center">Current Group</h4>
+<h4 align="center">Current Group</h4>
+<p align="center">	
   <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/>&nbsp
+	<img src="image/sogang.png?style=flex&width=50px&align-items=flex-start">
+	Sogang's University
+	</img>
+	</p>
 	<h4 align="center">Industrial-academic scholarship student.</h4>
+	<p align="center">
 	<img align="center" src="https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=white"/>&nbsp
+	</p>
 </p>
 
 <h3 align="center">•••</h3>
@@ -49,13 +56,11 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 <h3 align="center">•••</h3>
 
 <h3 align="center">📚 My Status 📚</h3>
-<p align="center">
 
-[![tonyhan18's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyhan18&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhan18&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
+<div align="center">
+    <img alt="TonyHan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=tonyhan18&show_icons=true&theme=tokyonight" width="58%" />
+		<img alt="TonyHan's GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhan18&layout=compact&theme=tokyonight" width="42%" />
+</div>
 
 <h3 align="center">•••</h3>
 
