@@ -38,7 +38,7 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 <h4 align="center">Current Group</h4>
 <p align="center">	
   <img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/>&nbsp
-	| Sogang's University &nbsp
+	| Sogang University &nbsp
 	| Sogang ICPC &nbsp
 	</img>
 	</p>
