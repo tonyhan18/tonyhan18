@@ -69,6 +69,9 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 <div align="center">
     <img alt="TonyHan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=tonyhan18&show_icons=true&theme=tokyonight" width="58%" />
 		<img alt="TonyHan's GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhan18&layout=compact&theme=tokyonight" width="42%" />
+	
+[![chahan's 42 stats](https://badge42.vercel.app/api/v2/cl234g655001609l3nvubw98q/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+	
 </div>
 
 <br>
