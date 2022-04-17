@@ -28,6 +28,7 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 </p>
 <h4 align="center">Database</h4>
 <p align="center">
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
 </p>
 
