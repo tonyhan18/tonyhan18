@@ -43,14 +43,14 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>&nbsp	
 </p>
 
-<h4 align="center">CICD</h4>
+<h4 align="center">VCS</h4>
 <p align="center">
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp	
 	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>&nbsp	
 </p>
 
-<h4 align="center">VCS</h4>
+<h4 align="center">CICD</h4>
 <p align="center">
 	<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp	
