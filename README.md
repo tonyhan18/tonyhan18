@@ -78,8 +78,8 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 </p>
 
 <h4 align="center">Service Mesh</h4>
-	<img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white"/>&nbsp
 <p align="center">
+	<img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white"/>&nbsp
 </p>
 
 
