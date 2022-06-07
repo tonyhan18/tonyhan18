@@ -12,7 +12,7 @@ I'm a programmer. I'm developing web, apps, software and sometimes servers that 
 <h3 align="center">📚 You can see my profile from here 📚</h3>
 <h4 align="center">LinkedIn</h4>
 <p align="center">
-	<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+	<a></a><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" href="https://www.linkedin.com/in/tonyhan-hanchanhui-5091b3103/"/>
 </p>
 <h3 align="center">📚 What am I learning now 📚</h3>
 <h4 align="center">Web Develop</h4>
