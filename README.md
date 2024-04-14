@@ -65,13 +65,36 @@
   <a href="mailto:ourclub7279@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
 </p>
 
+<br>
+<h3 align="center">•••</h3>
+<br>
+
+<h3 align="center">📊 Project 📊</h3>
+
+<div align="center">
+
+|이름|내용|기간|장소|
+|:-:|---|:-:|:-:|
+|<a href="https://github.com/tonyhan18/NATIVE">NATIVE</a>|react+django 집 예약 플랫폼 프로젝트|2021|CodingOn|
+|<a href="https://github.com/tonyhan18/CSE3013_MazeMake">CSE3013_MazeMake</a>|C++로 제작한 미로 자동 생성 프로젝트|2020|대학교|
+
+
+<br>
+<h3 align="center">•••</h3>
+<br>
+
 <h3 align="center">📚 Education 📚</h3>
 
 <div align="center">
 
 |이름|내용|기간|장소|
 |:-:|---|:-:|:-:|
-|<a href="https://github.com/tonyhan18/CSE3080_DataStructure_Sogang">CSE3080_DataStructure_Sogang</a>|대학교 자료구조 프로그래|2020|대학교|
+|<a href="https://github.com/tonyhan18/CSE4175_Socket_Server">CSE4175_Socket_Server</a>|c++ 소켓 프로그래밍|2021|대학교|
+|<a href="https://github.com/tonyhan18/CSE4175_Socket_Server">CSE4175_Socket_Server</a>|c++ 소켓 프로그래밍|2021|대학교|
+|<a href="https://github.com/tonyhan18/42Seoul_Piscine">42Seoul_Piscine</a>|c언어 42서울 라피신|2021|42seoul|
+|<a href="https://github.com/tonyhan18/CSE3040_Java_Exercise">CSE3040_Java_Exercise</a>|JAVA 학습 프로그래밍|2020|대학교|
+|<a href="https://github.com/tonyhan18/django_website">django_website</a>|Django Project|2020|개인|
+|<a href="https://github.com/tonyhan18/CSE3080_DataStructure_Sogang">CSE3080_DataStructure_Sogang</a>|대학교 자료구조 프로그래밍|2020|대학교|
 |<a href="https://github.com/tonyhan18/CSE3013_WaterFall">CSE3013_WaterFall</a>|c언어로 WaterFall 프로그램을 구현합니다|2020|대학교|
 |<a href="https://github.com/tonyhan18/MicroProcessor2016_Arduino">MicroProcessor2016_Arduino</a>|아두이노로 두더지 잡기 게임을 만듭니다|2016|대학교|
 |<a href="https://github.com/tonyhan18/LineTracer">LineTracer</a>|정해진 라인을 따라가는 기계 제어 프로그램|2016|대학교|
