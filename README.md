@@ -69,9 +69,14 @@
 
 <div align="center">
 
-|이름|내용|link|
-|---|---|---|
-|2016Arduino_project|아두이노로 모터와 센서를 컨트롤 합니다|<a href="https://github.com/tonyhan18/2016Arduino_project">link</a>|
+|이름|내용|기간|장소|
+|---|---|---|---|
+|<a href="https://github.com/tonyhan18/CSE3080_DataStructure_Sogang">CSE3080_DataStructure_Sogang</a>|대학교 자료구조 프로그래|2020|대학교|
+|<a href="https://github.com/tonyhan18/CSE3013_WaterFall">CSE3013_WaterFall</a>|c언어로 WaterFall 프로그램을 구현합니다|2020|대학교|
+|<a href="https://github.com/tonyhan18/MicroProcessor2016_Arduino">MicroProcessor2016_Arduino</a>|아두이노로 두더지 잡기 게임을 만듭니다|2016|대학교|
+|<a href="https://github.com/tonyhan18/LineTracer">LineTracer</a>|정해진 라인을 따라가는 기계 제어 프로그램|2016|대학교|
+|<a href="https://github.com/tonyhan18/EleTP">EleTP</a>|엘리베이터 프로그램을 객체 지향으로 구현합니다|2016|대학교|
+|<a href="https://github.com/tonyhan18/2016Arduino_project">2016Arduino_project</a>|아두이노로 모터와 센서를 컨트롤 합니다|2016|대학교|
 
 </div>
 
