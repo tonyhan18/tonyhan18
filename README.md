@@ -25,7 +25,7 @@
 <div align="center">
 
 |category|skills|years|
-|---|---|---|
+|:-:|:--|:-:|
 |FrontEnd|<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>||
 |Backend|<img src="https://img.shields.io/badge/.net-512BD4?style=flat-square&logo=.net&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>|1y|
 |Cloud|	<img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>|2y|
@@ -70,7 +70,7 @@
 <div align="center">
 
 |이름|내용|기간|장소|
-|---|---|---|---|
+|:-:|---|:-:|:-:|
 |<a href="https://github.com/tonyhan18/CSE3080_DataStructure_Sogang">CSE3080_DataStructure_Sogang</a>|대학교 자료구조 프로그래|2020|대학교|
 |<a href="https://github.com/tonyhan18/CSE3013_WaterFall">CSE3013_WaterFall</a>|c언어로 WaterFall 프로그램을 구현합니다|2020|대학교|
 |<a href="https://github.com/tonyhan18/MicroProcessor2016_Arduino">MicroProcessor2016_Arduino</a>|아두이노로 두더지 잡기 게임을 만듭니다|2016|대학교|
