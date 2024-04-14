@@ -75,6 +75,8 @@
 
 |이름|내용|기간|장소|
 |:-:|---|:-:|:-:|
+|<a href="https://github.com/tonyhan18/NATIVE">CSE4100_C_SHELL</a>|c 언어로 개발한 나만의 Shell 프로젝트|2021|대학교|
+|<a href="https://github.com/tonyhan18/NATIVE">CSE4100_C_SHELL</a>|c 언어로 개발한 나만의 Shell 프로젝트|2021|대학교|
 |<a href="https://github.com/tonyhan18/NATIVE">NATIVE</a>|react+django 집 예약 플랫폼 프로젝트|2021|CodingOn|
 |<a href="https://github.com/tonyhan18/CSE3013_MazeMake">CSE3013_MazeMake</a>|C++로 제작한 미로 자동 생성 프로젝트|2020|대학교|
 
@@ -89,7 +91,8 @@
 
 |이름|내용|기간|장소|
 |:-:|---|:-:|:-:|
-|<a href="https://github.com/tonyhan18/CSE4175_Socket_Server">CSE4175_Socket_Server</a>|c++ 소켓 프로그래밍|2021|대학교|
+|<a href="https://github.com/tonyhan18/CSE2003_Exercise">CSE2003_Exercise</a>|python 기초 프로그래밍|2021|대학교|
+|<a href="https://github.com/tonyhan18/CSE4175_DistanceVector">CSE4175_DistanceVector</a>|c++ 네트워크 DistanceVector 제작|2021|대학교|
 |<a href="https://github.com/tonyhan18/CSE4175_Socket_Server">CSE4175_Socket_Server</a>|c++ 소켓 프로그래밍|2021|대학교|
 |<a href="https://github.com/tonyhan18/42Seoul_Piscine">42Seoul_Piscine</a>|c언어 42서울 라피신|2021|42seoul|
 |<a href="https://github.com/tonyhan18/CSE3040_Java_Exercise">CSE3040_Java_Exercise</a>|JAVA 학습 프로그래밍|2020|대학교|
