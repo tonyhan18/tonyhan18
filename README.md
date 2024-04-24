@@ -75,7 +75,13 @@
 
 |이름|내용|기간|장소|
 |:-:|---|:-:|:-:|
-|<a href="https://github.com/tonyhan18/NATIVE">CSE4100_C_SHELL</a>|c 언어로 개발한 나만의 Shell 프로젝트|2021|대학교|
+|<a href="https://github.com/tonyhan18/react-nginx-express-dockerstack">react-nginx-express-dockerstack</a><br /><a href="https://github.com/tonyhan18/react-express-nginx-dockerstack">react-express-nginx-dockerstack</a>|react,express,dockerstack,dockerswarm,nginx 를 활용한 간단한 웹 페이지 개발 프로그래밍 |keduit|
+|<a href="https://github.com/tonyhan18/React_Nepp">React_Nepp</a>|React로 개발한 다양한 멀티 플랫폼 페이지 개발 프로그래밍| Nepp|
+|<a href="https://github.com/tonyhan18/CSE3013_Tetris_AI">CSE3013_Tetris_AI</a>|c언어로 개발한 유전자 알고리즘 기반 테트리스 고득점 전략 AI|2021|대학교|
+|<a href="https://github.com/tonyhan18/CSE4100_Assembler_Linker_Loader">CSE4100_Assembler_Linker_Loader</a>|c언어로 개발한 어셈블러, 링커, 로더|2021|42서울|
+|<a href="https://github.com/tonyhan18/42BoB-s_solution">42BoB-s Solution</a><br /><a href="https://github.com/tonyhan18/42BoB-Plus-Frontend">42BoB-Plus-Frontend</a>|React, spring으로 개발한 식사 약속 웹 페이지|2021|42서울|
+|<a href="https://github.com/tonyhan18/CSE4100_Stock_Server">CSE4100_Stock_Server</a>|c 언어로 비동기 처리로 작동하는 주식 매매 서버|2021|대학교|
+|<a href="https://github.com/tonyhan18/aiDrop">aiDrop</a>|Swift로 개발한 눈깜빡임 감지 알람 앱|2021|대학교|
 |<a href="https://github.com/tonyhan18/NATIVE">CSE4100_C_SHELL</a>|c 언어로 개발한 나만의 Shell 프로젝트|2021|대학교|
 |<a href="https://github.com/tonyhan18/NATIVE">NATIVE</a>|react+django 집 예약 플랫폼 프로젝트|2021|CodingOn|
 |<a href="https://github.com/tonyhan18/CSE3013_MazeMake">CSE3013_MazeMake</a>|C++로 제작한 미로 자동 생성 프로젝트|2020|대학교|
@@ -91,6 +97,14 @@
 
 |이름|내용|기간|장소|
 |:-:|---|:-:|:-:|
+|<a href="https://github.com/tonyhan18/fract-ol_2022">fract-ol_2022</a>|c 언어로 개발한 fractal 프로그래밍|2022|42서울|
+|<a href="https://github.com/tonyhan18/FS-FrontendStudy">FS-FrontendStudy</a>|html,css,js기반 클론코딩 연습 페이지|2022|패스트캠퍼스|
+|<a href="https://github.com/tonyhan18/minitalk_2022">minitalk_2022</a>|c 언어 기반 실시간 채팅 프로그램|2022|42서울|
+|<a href="https://github.com/tonyhan18/React-Basic-Study-21">React-Basic-Study-21</a>|js, React 기반 웹 프로그래밍 연습|2022|교육기관|
+|<a href="https://github.com/tonyhan18/CSE4152_Advanced_Software">CSE4152_Advanced_Software</a>|python 기반 데이터 분석 연습|2021|대학교|
+|<a href="https://github.com/tonyhan18/ft_printf_2021">ft_printf_2021</a>|c언어 기반 printf 함수 만들기|2021|42서울|
+|<a href="https://github.com/tonyhan18/libft_2021">libft_2021</a>|c언어 기반 libft 함수 만들기|2021|42서울|
+|<a href="https://github.com/tonyhan18/get_next_line_2021">get_next_line_2021</a>|c언어 기반 get_next_line 함수 만들기|2021|42서울|
 |<a href="https://github.com/tonyhan18/CSE2003_Exercise">CSE2003_Exercise</a>|python 기초 프로그래밍|2021|대학교|
 |<a href="https://github.com/tonyhan18/CSE4175_DistanceVector">CSE4175_DistanceVector</a>|c++ 네트워크 DistanceVector 제작|2021|대학교|
 |<a href="https://github.com/tonyhan18/CSE4175_Socket_Server">CSE4175_Socket_Server</a>|c++ 소켓 프로그래밍|2021|대학교|
@@ -106,6 +120,17 @@
 
 </div>
 
+<br>
+<h3 align="center">•••</h3>
+<br>
+
+<h3 align="center">🏫 Lecture & Book 🏫</h3>
+
+<div align="center">
+
+|이름|내용|기간|장소|
+|:-:|---|:-:|:-:|
+|<a href="https://github.com/tonyhan18/React-Basic-Study-21">React-Basic-Study-21</a>|백엔드 개발자를 위한 빠른 React 사용법 강의 & 책(준비중)|2022|교육기관|
 
 <br>
 <h3 align="center">•••</h3>
