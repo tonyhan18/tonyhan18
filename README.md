@@ -75,8 +75,9 @@
 
 |이름|내용|기간|장소|
 |:-:|---|:-:|:-:|
-|<a href="https://github.com/tonyhan18/react-nginx-express-dockerstack">react-nginx-express-dockerstack</a><br /><a href="https://github.com/tonyhan18/react-express-nginx-dockerstack">react-express-nginx-dockerstack</a>|react,express,dockerstack,dockerswarm,nginx 를 활용한 간단한 웹 페이지 개발 프로그래밍 |keduit|
-|<a href="https://github.com/tonyhan18/React_Nepp">React_Nepp</a>|React로 개발한 다양한 멀티 플랫폼 페이지 개발 프로그래밍| Nepp|
+|<a href="https://github.com/tonyhan18/DontWorry">DontWorry</a>|DotNet, Spring, React로 개발한 돈 관리 솔루션 플랫폼(진행중) |2024|개인|
+|<a href="https://github.com/tonyhan18/TRIPLY_keduit">TRIPLY_keduit</a>|`react`, `express`, `docker-compose`, `nginx` 를 활용한 항공권 예매 웹 페이지 개발 프로그래밍 |2022|keduit|
+|<a href="https://github.com/tonyhan18/React_Nepp">React_Nepp</a>|`React`로 개발한 다양한 멀티 플랫폼 페이지 개발 프로그래밍|2022|Nepp|
 |<a href="https://github.com/tonyhan18/CSE3013_Tetris_AI">CSE3013_Tetris_AI</a>|c언어로 개발한 유전자 알고리즘 기반 테트리스 고득점 전략 AI|2021|대학교|
 |<a href="https://github.com/tonyhan18/CSE4100_Assembler_Linker_Loader">CSE4100_Assembler_Linker_Loader</a>|c언어로 개발한 어셈블러, 링커, 로더|2021|42서울|
 |<a href="https://github.com/tonyhan18/42BoB-s_solution">42BoB-s Solution</a><br /><a href="https://github.com/tonyhan18/42BoB-Plus-Frontend">42BoB-Plus-Frontend</a>|React, spring으로 개발한 식사 약속 웹 페이지|2021|42서울|
@@ -97,6 +98,17 @@
 
 |이름|내용|기간|장소|
 |:-:|---|:-:|:-:|
+|<a href="https://github.com/tonyhan18/python-problem-solving">python-problem-solving </a>|Python 기반 problem solving|2023|패스트캠퍼스|
+|<a href="https://github.com/tonyhan18/FS-Spring-order">FS-Spring-order</a><br /><a href="https://github.com/tonyhan18/FS-Spring-Gift">FS-Spring-Gift</a>|Spring 기반 주문 관리 웹 플랫폼 개발|2024|패스트캠퍼스|
+|<a href="https://github.com/tonyhan18/DesignPattern-Refactoring">DesignPattern-Refactoring</a>|c++과 java로 학습한 디자인 패턴|2023|회사, 개인|
+|<a href="https://github.com/tonyhan18/CleanCode">Clean Code</a>|c++ 로 진행한 클린 코드 학습|2023|회사|
+|<a href="https://github.com/tonyhan18/0.HTMLBasicLayout">0.HTMLBasicLayout</a>|HTML 기본 프레임 Template|2023|개인|
+|<a href="https://github.com/tonyhan18/DotNETBasic">DotNETBasic</a>|DotNet, blazor 학습 프로그래밍|2023|개인|
+|<a href="https://github.com/tonyhan18/Philosophers_2022">Philosophers_2022</a>|c언어로 개발한 철학자 문제(멀티 스레딩) 해결 프로그래밍|2022|42서울|
+|<a href="https://github.com/tonyhan18/ansible">ansible</a>|ansible 학습 프로그래밍|2022|keduit|
+|<a href="https://github.com/tonyhan18/Dockerfile-tonyhan">Dockerfile-tonyhan</a>|Dockerfile 학습 프로그래밍|2022|keduit|
+|<a href="https://github.com/tonyhan18/push_swap_2022">push_swap_2022 </a>|c 언어로 개발한 push_swap 프로그래밍|2022|42서울|
+|<a href="https://github.com/tonyhan18/react-nginx-express-dockerstack">react-nginx-express-dockerstack</a><br /><a href="https://github.com/tonyhan18/react-express-nginx-dockerstack">react-express-nginx-dockerstack</a>|`react`, `express`, `dockerstack`, `dockerswarm`, `nginx` 를 활용한 간단한 웹 페이지 개발 프로그래밍 |2022|keduit|
 |<a href="https://github.com/tonyhan18/fract-ol_2022">fract-ol_2022</a>|c 언어로 개발한 fractal 프로그래밍|2022|42서울|
 |<a href="https://github.com/tonyhan18/FS-FrontendStudy">FS-FrontendStudy</a>|html,css,js기반 클론코딩 연습 페이지|2022|패스트캠퍼스|
 |<a href="https://github.com/tonyhan18/minitalk_2022">minitalk_2022</a>|c 언어 기반 실시간 채팅 프로그램|2022|42서울|
@@ -148,3 +160,18 @@
 <br>
 
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&desc=Have%20a%20Nice%20Day%20By.%20TonyHan&descAlignY=50)
+
+
+<br>
+<h3 align="center">•••</h3>
+<br>
+
+<h3 align="center">🔄 ToBeContinue 🔄</h3>
+
+<div align="center">
+
+|이름|내용|기간|장소|
+|:-:|---|:-:|:-:|
+|<a href="https://github.com/tonyhan18/dotnet_ref">dotnet_ref</a>|비밀|2023|개인|
+|<a href="https://github.com/tonyhan18/Working">Working</a>|근무 정보 멀티플랫폼 앱|2022|개인|
+|<a href="https://github.com/tonyhan18/RealEstate.com">RealEstate.com</a>|부동산 통계 웹|2022|개인|
