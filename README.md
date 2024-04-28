@@ -27,7 +27,7 @@
 |category|skills|years|
 |:-:|:--|:-:|
 |FrontEnd|<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>||
-|Backend|<img src="https://img.shields.io/badge/.net-512BD4?style=flat-square&logo=.net&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>|1y|
+|Backend|<img src="https://img.shields.io/badge/.net-512BD4?style=flat-square&logo=.net&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/python(PS용도)-3776AB?style=flat-square&logo=python&logoColor=black"/>|1y|
 |Cloud|	<img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>|2y|
 |DevOps|<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/> |2y|
 |DB|<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>||
@@ -100,7 +100,7 @@
 |이름|내용|기간|장소|
 |:-:|---|:-:|:-:|
 |<a href="https://github.com/tonyhan18/python-problem-solving">python-problem-solving </a>|`Python` 기반 problem solving|2023|패스트캠퍼스|
-|<a href="https://github.com/tonyhan18/FS-Spring-order">FS-Spring-order</a><br /><a href="https://github.com/tonyhan18/FS-Spring-Gift">FS-Spring-Gift</a>|`Spring` 기반 주문 관리 웹 플랫폼 개발|2024|패스트캠퍼스|
+|<a href="https://github.com/tonyhan18/FS-Spring-order">FS-Spring-order</a><br /><a href="https://github.com/tonyhan18/FS-Spring-Gift">FS-Spring-Gift</a>|`Spring` 기반 주문 관리 웹 플랫폼 개발 `DDD`|2024|패스트캠퍼스|
 |<a href="https://github.com/tonyhan18/DesignPattern-Refactoring">DesignPattern-Refactoring</a>|`c++`과 `java`로 학습한 `디자인 패턴`|2023|회사, 개인|
 |<a href="https://github.com/tonyhan18/CleanCode">Clean Code</a>|`c++` 로 진행한 `클린 코드` 학습|2023|회사|
 |<a href="https://github.com/tonyhan18/0.HTMLBasicLayout">0.HTMLBasicLayout</a>|`HTML` 기본 프레임 Template|2023|개인|
