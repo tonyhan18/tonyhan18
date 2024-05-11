@@ -75,7 +75,7 @@
 
 |이름|내용|기간|장소|
 |:-:|---|:-:|:-:|
-|<a href="https://github.com/OSS-2024-1-Avalonia/ChanHui">DontWorryAvalonia</a>|`DotNet`, `Avalonia` 로 개발한 부동산 통계 플랫폼 - 오픈소스 컨트리뷰션 아카데미(진행중) |2024|OSS.kr|
+|<a href="https://github.com/OSS-2024-1-Avalonia/ChanHui">DontWorryAvalonia</a>|`DotNet`, `Avalonia` 로 개발한 여러 가지 클라이언트 프로그램 - 오픈소스 컨트리뷰션 아카데미 |2024|OSS.kr|
 |<a href="https://github.com/tonyhan18/DontWorry">DontWorry</a>|`DotNet`, `Spring`, `React`로 개발한 돈 관리 솔루션 플랫폼(진행중) |2024|개인|
 |<a href="https://github.com/tonyhan18/TRIPLY_keduit">TRIPLY_keduit</a>|`react`, `express`, `docker-compose`, `nginx` 를 활용한 항공권 예매 웹 페이지 개발 프로그래밍 |2022|keduit|
 |<a href="https://github.com/tonyhan18/React_Nepp">React_Nepp</a>|`React`로 개발한 다양한 멀티 플랫폼 페이지 개발 프로그래밍|2022|Nepp|
